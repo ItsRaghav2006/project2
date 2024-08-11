@@ -1,4 +1,4 @@
 # New Project
 
 This project was created form local system.
-Created by Raghav Deshpande.
+Created By Raghav Deshpande.
